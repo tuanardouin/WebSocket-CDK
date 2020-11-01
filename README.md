@@ -36,3 +36,26 @@ If you're using CDK for the first time in your account don't forget to initializ
 ```
 $ cdk deploy
 ```
+
+## Usage
+
+```
+npm install wscat
+```
+
+### Connection
+
+```
+wscat -c wss://YOUR_API_ID.execute-api.eu-west-1.amazonaws.com/prod
+```
+
+### Set username
+
+```
+{"action":"setusername", "data":"user1"}
+```
+
+### Send message
+```
+{"action":"sendmessage", "data":"hello world"}
+```
