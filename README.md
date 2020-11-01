@@ -3,6 +3,8 @@
 
 This is a basic implementation of websockets using CDK
 
+It's based on the work of [simple-websockets-chat-app](https://github.com/aws-samples/simple-websockets-chat-app) and [@mrpackethead](https://github.com/mrpackethead)
+
 ## Install
 
 ```
