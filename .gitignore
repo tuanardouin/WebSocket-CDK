@@ -1,11 +1,14 @@
-*.js
-!jest.config.js
-*.d.ts
-node_modules
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+.env
+*.egg-info
 
 # CDK asset staging directory
 .cdk.staging
 cdk.out
 
-# Parcel default cache directory
-.parcel-cache
+# Project specific
+venv
+.venv
