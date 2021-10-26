@@ -41,18 +41,16 @@ $ cdk deploy
 
 After the completion of this command go in the API Gateway Console and deploy the API.
 
+On AWS console
+- Go to API Gateway
+- Click on Resources
+- Select "deploy API" option on Action menu.
+
 ## Usage
 
 ```
 npm install wscat
 ```
-
-### Deploy API
-
-On AWS console
-- Go to API Gateway
-- Click on Resources
-- Select "deploy API" option on Action menu.
 
 ### Connection
 
