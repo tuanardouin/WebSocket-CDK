@@ -47,6 +47,13 @@ After the completion of this command go in the API Gateway Console and deploy th
 npm install wscat
 ```
 
+### Deploy API
+
+On AWS console
+- Go to API Gateway
+- Click on Resources
+- Select "deploy API" option on Action menu.
+
 ### Connection
 
 ```
