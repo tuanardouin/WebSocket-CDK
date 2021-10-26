@@ -39,6 +39,8 @@ If you're using CDK for the first time in your account don't forget to initializ
 $ cdk deploy
 ```
 
+After the completion of this command go in the API Gateway Console and deploy the API.
+
 ## Usage
 
 ```
